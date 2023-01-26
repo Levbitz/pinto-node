@@ -1,0 +1,27 @@
+Node js (runtime environment)  Javasript
+
+chrome - v8(engine  )
+safare 
+fire fox - spider monkey
+
+
+
+Pinto Code
+  Node js deno js
+ (Chrome code v8)  
+
+  machine Code
+
+
+  /// Different Js version
+reqiure ( common js )
+import ( es6  )
+
+
+//
+Modules  - file(
+    inbuilt  file system operating system , 
+)
+
+1+1 =2 
+1+1 = 11
